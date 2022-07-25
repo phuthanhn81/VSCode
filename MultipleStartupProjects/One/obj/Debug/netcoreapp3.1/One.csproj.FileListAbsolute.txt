@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\bin\Debug\netcoreapp3.1\One.exe
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\bin\Debug\netcoreapp3.1\One.deps.json
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.json
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\bin\Debug\netcoreapp3.1\One.dll
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\bin\Debug\netcoreapp3.1\One.pdb
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.AssemblyInfo.cs
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.dll
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.pdb
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\One\obj\Debug\netcoreapp3.1\One.genruntimeconfig.cache

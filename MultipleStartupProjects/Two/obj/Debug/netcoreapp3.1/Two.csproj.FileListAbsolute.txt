@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\bin\Debug\netcoreapp3.1\Two.exe
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\bin\Debug\netcoreapp3.1\Two.deps.json
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.json
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\bin\Debug\netcoreapp3.1\Two.dll
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\bin\Debug\netcoreapp3.1\Two.pdb
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfo.cs
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.dll
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.pdb
+C:\Users\ACER\Desktop\VSCode\MultipleStartupProjects\Two\obj\Debug\netcoreapp3.1\Two.genruntimeconfig.cache
