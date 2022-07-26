@@ -9,7 +9,7 @@
             "program": "${workspaceFolder}/MultipleStartupProjects/One/bin/Debug/netcoreapp3.1/one.dll", // <
             "args": [],
             "cwd": "${workspaceFolder}/MultipleStartupProjects/One", // <
-            "console": "internalConsole",
+            "console": "externalTerminal", // <
             "stopAtEntry": false
         },
         {
@@ -20,7 +20,7 @@
             "program": "${workspaceFolder}/MultipleStartupProjects/Two/bin/Debug/netcoreapp3.1/two.dll", // <
             "args": [],
             "cwd": "${workspaceFolder}/MultipleStartupProjects/Two", // <
-            "console": "internalConsole",
+            "console": "externalTerminal", // <
             "stopAtEntry": false
         },
         {
@@ -31,7 +31,7 @@
             "program": "${workspaceFolder}/MultipleStartupProjects/Client/bin/Debug/netcoreapp3.1/client.dll", // <
             "args": [],
             "cwd": "${workspaceFolder}/MultipleStartupProjects/Client", // <
-            "console": "internalConsole",
+            "console": "externalTerminal", // <
             "stopAtEntry": false
         }
     ],
