@@ -33,6 +33,7 @@ namespace API
         {
             var product = _context.Products.Include(n => n.Category)
                                            .FirstOrDefault(n => n.ID == 1);
+            Console.WriteLine(product.Name);
             Console.WriteLine(product.Category.Name);
         }
     }
