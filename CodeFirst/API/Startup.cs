@@ -11,7 +11,7 @@ namespace API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContextPool<CodeFirstDbContext>(options => options
-                .UseMySql("server=localhost;port=3310;database=Shopee;user=phuthanh;password=1")
+                .UseMySql("server=localhost;port=3310;database=Shopee;user=phuthanh;password=1;SSL Mode=None")
             );
 
             services.AddTransient<Program>();
